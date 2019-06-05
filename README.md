@@ -1,4 +1,4 @@
-## [MTUPLODER](t.me/MTUploader_Bot)
+## [MTUPLODER]
 
 **There are multiple things I can do:**:
 
