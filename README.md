@@ -1,4 +1,4 @@
-## [MTUPLODER](https://github.com/TeamMaptap)
+## [MTUPLODER](t.me/MTUploader_Bot)
 
 **There are multiple things I can do:**:
 
