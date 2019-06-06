@@ -1,8 +1,9 @@
 class Translation(object):
-    START_TEXT = """Thank You for using me.
+    START_TEXT = """HEY Thank You for using me.
+
 /help to know how to use me
 
-Bot Created By https://t.me/DwayneJohnsonn
+Created By @DwayneJohnsonn
 
 © @MTUploader_Bot"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
