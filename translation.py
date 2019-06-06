@@ -1,11 +1,13 @@
 class Translation(object):
-    START_TEXT = """HEY Thank You for using me.
+    START_TEXT = """Hey, My friend..☺️
+
+Iam Telegram  Uploder Bot
 
 /help to know how to use me
 
-Created By @DwayneJohnsonn
+all copyright reserved.©
 
-© @MTUploader_Bot"""
+@DwayneJohnsonn"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "Contact @MTMOVIES_ADMIN_bot"
