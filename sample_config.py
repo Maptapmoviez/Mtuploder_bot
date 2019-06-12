@@ -34,11 +34,11 @@ class Config(object):
     # Get your own proxy from https://github.com/rg3/youtube-dl/issues/1091#issuecomment-230163061
     HTTP_PROXY = os.environ.get("HTTP_PROXY", "")
     # https://t.me/hevcbay/951
-    OUO_IO_API_KEY = os.environ.get("OUO_IO_API_KEY", "msSBfnhq")
+    OUO_IO_API_KEY = os.environ.get("OUO_IO_API_KEY", "")
     #mirro
-    MIRROR_ACE_API_KEY = os.environ.get("MIRROR_ACE_API_KEY", "")
+    MIRROR_ACE_API_KEY = os.environ.get("MIRROR_ACE_API_KEY", "0123456789abcdefabcdefabcdefabcd")
     #mirror
-    MIRROR_ACE_API_TOKEN = os.environ.get("MIRROR_ACE_API_TOKEN", "")
+    MIRROR_ACE_API_TOKEN = os.environ.get("MIRROR_ACE_API_TOKEN", "0123456789abcdefabcdefabcdefabcd")
     # for Google Custom Search Engine
     GCS_API_KEY = os.environ.get("GCS_API_KEY", None)
     GCS_SE_ID = os.environ.get("GCS_SE_ID", None)
